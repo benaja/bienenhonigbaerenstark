@@ -25,25 +25,39 @@
   <div id="honigsorten">
     <div class="honigsorte">
       <div class="honigsorte_inhalt">
+        <img src="/images/flower1.png">
         <h3>Blütenhonig</h3>
         <p>Zärtlich cremiger Honig, von blühenden Rapsfelder</p>
-        <img src="/images/blütenhonig.png">
       </div>
     </div>
     <div class="honigsorte">
       <div class="honigsorte_inhalt">
+        <img src="/images/tree.png">
         <h3>Waldhonig</h3>
         <p>Feinster Honig aus den Wäldern.</p>
-        <img src="/images/waldhonig.png">
       </div>
     </div>
     <div class="honigsorte">
       <div class="honigsorte_inhalt">
+        <img src="/images/mountain.png">
         <h3>Bergblütenhonig</h3>
         <p>Honig aus unseren Schweizer Alpen</p>
-        <img src="/images/bergblütenhonig.jpg">
       </div>
     </div>
   </div>
-  <h2 id="unsere_imkerei">Unsere Imkerei</h2>
+  <div class="content">
+    <div id="unsere_imkerei">
+        <div id="unsere_imkerei_img">
+          <div id="img_text">
+            <img src="/images/arrow_right.svg">
+            <p>Erfahre mehr</p>
+          </div>
+        </div>
+        <h2>Unsere Imkerei</h2>
+        <p>Unser Familienbetrieb gibt es nun schon seit meheren Jahren. Wir legen viel Wert auf qulitativ guten Biohonig aus der Schweiz. Insgesamt besitzen wir 150 Fölker, die in der ganze Schweiz verteilt sind. Es ist uns ein Anliegen unsere Kunden glücklich zu machen. </p>
+    </div>
+  </div>
+</div>
+<div id="footer">
+  <p id="footer_firma">Bienenhonigbärenstark.ch</p>
 </div>
