@@ -1,4 +1,4 @@
-<!--
+
 <div id="header">
   <div id="navigationbar">
     <ul id="navigation_list">
@@ -14,7 +14,7 @@
 </div>
 
 <div id="content">
-  <h2>Honig in alles Sorten</h2>
+  <h2>Honig in allen Sorten</h2>
   <p>Wir bieten eine menge an unterschiedlichen Honigsorten an.</p>
   <div id="honigsorten">
     <div class="honigsorte">
@@ -35,5 +35,4 @@
   </div>
   <h2 id="unsere_imkerei">Unsere Imkerei</h2>
 </div>
--->
-<iframe id="iframe" src=""></iframe>
+
