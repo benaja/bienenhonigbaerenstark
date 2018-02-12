@@ -13,11 +13,11 @@
     </ul>
   </div>
 </div>
-<div id="wallpaper">
+<div id="wallpaper" class="wallpaper">
   <h1 id="titel">Schweizer Bienenhonig</h1>
 </div>
 
-<div id="content">
+<div class="content_div">
   <div class="content">
     <h2>Honig in allen Sorten</h2>
     <p>Wir bieten eine menge an unterschiedlichen Honigsorten an.</p>
