@@ -222,6 +222,9 @@ p{
   border-bottom-width: 1px;
   border-bottom-color: gray;
   padding-bottom: 10px;
+  clear: both;
+  margin-top: 20px;
+  margin-bottom: 0;
 }
 
 .produkt{
@@ -231,6 +234,18 @@ p{
   float: left;
   border-right: solid 1px lightgray;
   border-bottom: solid 1px lightgray;
+}
+
+.produkt:nth-child(3){
+  border-right: none;   
+}
+
+.produkt:nth-child(4){
+  border-bottom: none;   
+}
+
+.produkt:nth-child(5){
+  border-bottom: none;   
 }
 
 .produkt img{
@@ -254,4 +269,14 @@ p{
 
 .hover_produkt:hover{
   opacity: 1;
+}
+
+#honig{
+  height: 700px;
+  margin-bottom: 60px;
+}
+
+#kerzen{
+  height: 350px;
+  margin-bottom: 60px;
 }
