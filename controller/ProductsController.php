@@ -1,7 +1,7 @@
 <?php
 
 require_once '../repository/UserRepository.php';
-class ProdukteController
+class ProductsController
 {
     /**
      * Die index Funktion des DefaultControllers sollte in jedem Projekt
@@ -18,6 +18,12 @@ class ProdukteController
         $view = new View('produkte');
         $view->title = 'Startseite';
         $view->heading = 'Startseite';
+        $view->display();
+    }
+
+    public function details()
+    {
+        $view = new View('details');
         $view->display();
     }
 }
