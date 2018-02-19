@@ -6,10 +6,18 @@
   </div>
   <div id="navigationbar">
     <ul id="navigation_list">
-      <li>Startseite</li>
-      <li>Über Uns</li>
-      <li>Produkte</li>
-      <li>Kontakt</li>
+      <li>
+        <a href="/">Startseite</a>
+      </li>
+      <li>
+        <a href="/about">Über Uns</a>
+      </li>
+      <li>
+        <a href="/products">Produkte</a>
+      </li>
+      <li>
+        <a href="/contact">Kontakt</a>
+      </li>
     </ul>
   </div>
 </div>
@@ -47,14 +55,16 @@
   </div>
   <div class="content">
     <div id="unsere_imkerei">
-        <div id="unsere_imkerei_img">
-          <div id="img_text">
-            <img src="/images/arrow_right.svg">
-            <p>Erfahre mehr</p>
-          </div>
+      <div id="unsere_imkerei_img">
+        <div id="img_text">
+          <img src="/images/arrow_right.svg">
+          <p>Erfahre mehr</p>
         </div>
-        <h2>Unsere Imkerei</h2>
-        <p>Unser Familienbetrieb gibt es nun schon seit meheren Jahren. Wir legen viel Wert auf qulitativ guten Biohonig aus der Schweiz. Insgesamt besitzen wir 150 Fölker, die in der ganze Schweiz verteilt sind. Es ist uns ein Anliegen unsere Kunden glücklich zu machen. </p>
+      </div>
+      <h2>Unsere Imkerei</h2>
+      <p>Unser Familienbetrieb gibt es nun schon seit meheren Jahren. Wir legen viel Wert auf qulitativ guten Biohonig aus der
+        Schweiz. Insgesamt besitzen wir 150 Fölker, die in der ganze Schweiz verteilt sind. Es ist uns ein Anliegen unsere
+        Kunden glücklich zu machen. </p>
     </div>
   </div>
 </div>

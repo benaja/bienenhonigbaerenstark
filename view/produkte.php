@@ -6,10 +6,18 @@
     </div>
     <div id="navigationbar">
         <ul id="navigation_list">
-            <li>Startseite</li>
-            <li>Über Uns</li>
-            <li>Produkte</li>
-            <li>Kontakt</li>
+            <li>
+                <a href="/">Startseite</a>
+            </li>
+            <li>
+                <a href="/about">Über Uns</a>
+            </li>
+            <li>
+                <a href="/products">Produkte</a>
+            </li>
+            <li>
+                <a href="/contact">Kontakt</a>
+            </li>
         </ul>
     </div>
 </div>
